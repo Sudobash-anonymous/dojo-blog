@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dojo-blog/static/css/main.f855e6bc.css",
+    "main.js": "/dojo-blog/static/js/main.3de79b7d.js",
+    "index.html": "/dojo-blog/index.html",
+    "main.f855e6bc.css.map": "/dojo-blog/static/css/main.f855e6bc.css.map",
+    "main.3de79b7d.js.map": "/dojo-blog/static/js/main.3de79b7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3de79b7d.js"
+  ]
+}
